@@ -852,7 +852,7 @@ var data = function() {
     };
 
     var loadData = function() {
-        d3.json("vasu-resume.json", parseData);
+        d3.json("resume.json", parseData);
     };
 
     var reloadData = function(url) {
