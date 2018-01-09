@@ -175,7 +175,7 @@
                 "KeyStone.js 3",
                 "Sling",
                 "Require.js 2.3",
-                "Solr 6.5"
+                "Solr 6.5",
                 "Go",
                 "Python",
                 "TypeScript 1.4",
@@ -203,7 +203,7 @@
                 "Vagrant",
                 "AWS",
                 "Terraform",
-                "AWS CLI"
+                "AWS CLI",
                 "Rancher"
             ]
         },
@@ -216,7 +216,7 @@
                 "WCM", 
                 "ECM",
                 "AEM",
-                "DTM"
+                "DTM",
                 "Web Analytics",
                 "Tag Manager",
                 "SEO",
@@ -240,7 +240,7 @@
             "name": "Agile Software Practices",
             "level": "Master",
             "keywords": [
-                "Certified ScrumMaster®"
+                "Certified ScrumMaster®",
                 "Scrum",
                 "Kanban",
                 "User Story Mapping",
@@ -255,12 +255,12 @@
             "level": "Advanced",
             "keywords": [
                 "TOGAF 9",
-                "AWS Certified Solution Architect"
+                "AWS Certified Solution Architect",
                 "Adobe Certified Analytics Architect",
                 "Solution Architect",
-                "Software Architect"
+                "Software Architect",
                 "Enterprise Content Management Architect",
-                "Digital Architect"
+                "Digital Architect",
                 "Architecture Patterns",
                 "Microservice"
             ]
@@ -277,7 +277,7 @@
                 "NLP",
                 "VUI",
                 "TTS",
-                "Voice-enaled device"
+                "Voice-enaled device",
                 "Raspberry Pi",
                 "Voice-first experiences",
                 "Automating",
